@@ -1,0 +1,106 @@
+/* Testo e logo */
+header {
+    margin-top: -88px;
+}
+
+#logo {
+    width: 248px;
+    margin-left: 41px;
+}
+
+header > h1 {
+    color: rgb(53, 248, 53);
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+/* barra bottoni */
+nav  {
+    text-align: center;
+    margin: auto;
+    background-color: rgb(53, 248, 53);
+    width: 84%;
+    padding: 9px;
+    margin-bottom: 21px;
+    margin-top: -15px;
+}
+
+/* sfondo */
+body{ 
+    background-image: url("background.jpg");
+    background-size: 100%;
+}
+
+/* parte centrale pagina */
+
+.contenitore{
+    background-color: rgba(42, 31, 31, 0.5);
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+    height: 679px;
+    padding-top: 149px;
+    margin-bottom: 56px;
+    margin-top: 20px;
+    width: 64%;
+ }
+
+/* Informazioni monopattini */
+
+.nome {
+    font-size: 19px;
+}
+
+.posizione{
+    font-size: 14px;
+} 
+
+.info-monopattino{
+    text-align: left;
+    margin: auto;
+    color: white;
+    margin-top: 15px;
+    padding-left: 74px;
+}
+
+/* stato carica monopattini */
+
+.carica-monopattino-Gino {
+    background-color: rgb(238, 153, 74);
+    border-radius: 4px;
+    height:24px;
+    width: 33%;
+    margin-top: 2px;
+}
+
+.carica-monopattino-Mike{
+    background-color: rgb(37, 166, 19);
+    border-radius: 4px;
+    height:24px;
+    width:54%;
+    margin-top: 2px;
+    margin-bottom: 27px;
+}
+
+.carica-monopattino-Fede{
+    background-color: rgba(238, 58, 58, 0.944);
+    border-radius: 4px;
+    height:24px;
+    width: 14%;
+    margin-top: 2px;
+}
+
+* {
+    box-sizing: border-box;
+    cursor: grab;
+    font-family: "Mulish", sans-serif; 
+}
+
+
+
+
+
+
+
+
+
